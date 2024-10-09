@@ -1,4 +1,6 @@
 # LoL Champion Stats&Graphs
+ Ets més malo que la peste? Estudia una mica les estadístiques dels campions més forts
+ per començar a donar una mica menys de pena jugant al LoL.
  Repositori amb els arxius utilitzats per el tractament de grans volums de dades.
 
  DataSet amb les estadístiques dels campions de LoL. Filtrats per atributs individuals i comprarats amb altres 
