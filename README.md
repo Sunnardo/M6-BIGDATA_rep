@@ -1,4 +1,4 @@
-# M6-BIGDATA_rep
+# LoL Champion Stats&Graphs
  Repositori amb els arxius utilitzats per el tractament de grans volums de dades.
 
  DataSet amb les estadístiques dels campions de LoL. Filtrats per atributs individuals i comprarats amb altres 
