@@ -13,5 +13,6 @@
  que les dependències ja siguin instal.lades.
 
 
- En properes implementacions es treballarà en crear gràfics amb les estadístiques filtrades i creant conclusions
- sobre els nivells de poder de cada campió que d'altra manera seria difícil de veure.
+ En properes implementacions es treballarà en crear gràfics amb les estadístiques filtrades i crear conclusions
+ sobre els nivells de poder de cada campió que d'altra manera seria difícil de veure. A més seguir incrementant 
+ el número d'estadístiques autoconcluents per cada clase de campió, rol, etc.
